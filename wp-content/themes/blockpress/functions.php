@@ -9,7 +9,7 @@
  */
 
 if ( !defined( 'BLOCKPRESS_THEME_VERSION' ) ) {
-	define('BLOCKPRESS_THEME_VERSION', '1.2');
+	define('BLOCKPRESS_THEME_VERSION', '1.2.1');
 }
 if ( !defined( 'BLOCKPRESS_THEME_DIR' ) ) {
 	define('BLOCKPRESS_THEME_DIR', get_template_directory_uri());

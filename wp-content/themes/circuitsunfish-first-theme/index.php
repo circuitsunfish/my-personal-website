@@ -4,3 +4,4 @@
  * Not required for Full Site Editing.
  * Can be removed in future when not required.
  */
+?>
